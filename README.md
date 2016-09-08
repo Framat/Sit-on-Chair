@@ -9,7 +9,7 @@ Menu hoovers, transitions and animations has been made in CSS3.Slider has been m
 Validation Form and Price Calculator has been made in  JQUERY.
 
 
-### Visit [SIT ON CHAIR](https://framat.github.io/Sit-on-Chair/)
+### Visit -->[Sit on Chair](https://framat.github.io/Sit-on-Chair/)
 
 Created at the first workshop at [Coder’s Lab](http://coderslab.pl/kurs-front-end)
 
