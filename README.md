@@ -1,6 +1,4 @@
-##### Sit on chair ####
-
-###
+##Sit on chair ##
 
 Please look at my website prepared on bootcamp in [Coder’s Lab](http://coderslab.pl/kurs-front-end)
 
